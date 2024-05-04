@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://img.freepik.com/fotos-premium/espaco-masculino-interior-de-barbearia-moderna-gerado-por-ia_866663-5580.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffffff;
+    overflow-x: hidden;
+    /* Cor do texto para contrastar com o fundo */
+}
+
+header {
+
+    font-size: 50px;
+    text-align: center;
+    color: #f7f1f1;
+}
+
+a {
+    font-size: 30px;
+    text-align: center;
+    color: #f7f1f1;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+.container {
+    max-width: 10pxpx;
+    margin-top: 10px;
+    text-align: left;
+    padding: 50px 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+li {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li:hover {
+    color: rgb(255, 0, 0);
+
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+div {
+    font-size: 50px;
+    margin: 10px;
+    text-align: left;
+}
+
+.form-container {
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+footer {
+
+    color: #f7f4f4;
+    text-align: left;
+    padding: 10px 330px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+iframe {
+
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 10px 330px;
+}
+
+h4 {
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+h5 {
+    font-size: 25px;
+    text-align: center;
+}
+
+img{
+    transition: transform 0.5s;
+}
+
+img:hover{
+    transform: rotate(360deg);
+}

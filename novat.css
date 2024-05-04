@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://img.freepik.com/fotos-premium/espaco-masculino-interior-de-barbearia-moderna-gerado-por-ia_866663-5580.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffffff; /* Cor do texto para contrastar com o fundo */
+
+
+    header {
+        
+        font-size: 17px;
+         text-align: center;
+         color: #fcf9f9;
+        }
+
+
+        h1 {
+            margin-bottom: 20px;
+           text-align: center;
+           color: #fcf9f9;
+       }
+       a {
+        margin-bottom: 25px;
+       text-align: center;
+       color: #fcf9f9;
+       font-size: 25px;
+   }
+
+
+}
